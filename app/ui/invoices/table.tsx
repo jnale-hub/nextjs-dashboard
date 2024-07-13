@@ -113,6 +113,7 @@ export default async function InvoicesTable({
                       <DeleteInvoice id={invoice.id} />
                     </div>
                   </td>
+                  <p>{invoice.id}</p>
                 </tr>
               ))}
             </tbody>

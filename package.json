@@ -1,5 +1,12 @@
 {
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
   "private": true,
+  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "next.config.js",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
@@ -38,12 +45,5 @@
   },
   "engines": {
     "node": ">=18.17.0"
-  },
-  "name": "nextjs-dashboard",
-  "version": "1.0.0",
-  "description": "This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.",
-  "main": "next.config.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }
